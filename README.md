@@ -1,2 +1,0 @@
-# SyncWaveStudios-WEB
-Web
